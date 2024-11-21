@@ -8,7 +8,7 @@ with open("README.md","r",encoding="utf-8") as f:
 
     REPO_NAME="chicken-disease-classification-project"
     AUTHOR_USER_NAME="rohitdhotare17"
-    SRC_REPO="chicken-disease-classification-project"
+    SRC_REPO="cnnClassifier"
     AUTHOR_EMAIL="rohitdhotare2001@gmail.com"
 
 
